@@ -1,0 +1,56 @@
+/.metadata/
+
+# Maven specific
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Gradle specific
+build/
+.gradle/
+
+.out/
+out/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Logs
+log/
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Compiled files
+*.class
+
+# Dependency directories
+bin/
+lib/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Eclipse specific
+.settings/
+.classpath
+.project
+.metadata/
+bin/
+tmp/
+
+# IntelliJ specific
+*.iml
+*.ipr
+*.iws
+.idea/
+out/
+
+# NetBeans specific
+nb-configuration.xml
+build/
+nbproject/private/
